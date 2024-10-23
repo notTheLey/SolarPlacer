@@ -1,7 +1,7 @@
 # SolarPlacer
 SolarPlacer von Soßße und Wapo
 
-👾 Halt ein Game 
+ Halt ein Game 
 
 ## Update
 Keine halt 
